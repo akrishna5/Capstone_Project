@@ -4,6 +4,8 @@
 
 A web application for fake news prediction.
 
+![alt text](webpage.png)
+
 Datasets used: https://www.kaggle.com/datasets/abkrishna05/fake-true-news-datasets
 
 ### Made by:
