@@ -1,8 +1,6 @@
-## Capstone Project [Final-Year Project]
-
 # Fake News Detection Using Hybrid NLP Techniques And ML Algorithms
-
-A web application for fake news prediction.
+- Capstone Project [Final-Year Project]
+- A web application for fake news prediction.
 
 # To Run:
 - Download this github-repo files and the datasets (true.csv & false.csv)
@@ -14,6 +12,13 @@ A web application for fake news prediction.
 Datasets used: https://www.kaggle.com/datasets/abkrishna05/fake-true-news-datasets
 
 ![alt text](kagglepage.png)
+
+## Performance Metrics
+- Accuracy: 78.711
+- Precision: 71.731
+- Recall: 93.374
+- F1 Score: 81.134
+- ROC AUC Score: 0.790
 
 ### Made by:
   1. Abhishek Krishna (20BDS0053)
