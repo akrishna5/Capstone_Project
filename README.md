@@ -8,6 +8,8 @@ A web application for fake news prediction.
 
 Datasets used: https://www.kaggle.com/datasets/abkrishna05/fake-true-news-datasets
 
+![alt text](kagglepage.png)
+
 ### Made by:
   1. Abhishek Krishna (20BDS0053)
   2. Devendra Kumar (20BDS0068)
