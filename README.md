@@ -5,9 +5,9 @@
 A web application for fake news prediction.
 
 # To Run:
-> Download this github-repo files and datasets (true.csv & false.csv)
-> Open VSCode and run the "app.py" [ python app.py ]
-> Click on the localhost address given by the output-terminal
+- Download this github-repo files and the datasets (true.csv & false.csv)
+- Open VSCode and run the "app.py" [ python app.py ]
+- Click on the localhost address given by the output-terminal
 
 ![alt text](webpage.png)
 
