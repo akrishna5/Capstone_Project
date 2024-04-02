@@ -45,7 +45,6 @@ def predict(text):
     prediction = 'FAKE' if model.predict(review_vect) == 0 else 'REAL'
     return prediction
 
-
 @app.route('/', methods=['POST'])
 def webapp():
     text = request.form['text']
